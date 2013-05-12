@@ -21,7 +21,7 @@ $feeperc = 0.5; // fee for outgoing transactions in percentage
 $fee_account = "KgHL1urqk1roN0eX67sC"; // set to your own KEY to recieve fee�s there
 
 
-$adscaptchaID = 3170;
-$adspubkey = "d655966c-541e-44c8-9a7d-a4f48a3d51a3";
-$adsprivkey = "484fa3ac-8fcb-470f-8ee4-a3a91568071c";
+$adscaptchaID = 5186;
+$adspubkey = "18d18920-61a8-4f24-a2dd-5c64806f1f2c";
+$adsprivkey = "2d1481af-79b0-4ff1-aa33-0e4a8bacf63a";
 ?>
